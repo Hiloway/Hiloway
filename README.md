@@ -13,7 +13,6 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
@@ -34,9 +33,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
-<p>&emsp;&emsp;嗨，我是HilowayL。热爱编程、音乐、健身、旅行。</p>
+<p>&emsp;&emsp;嗨，我是Hiloway。热爱编程、音乐、健身、旅行。</p>
 <p>&emsp;&emsp;热爱CV、深度学习、智能驾驶，想要探索具身智能、端到端大模型......</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -51,11 +48,9 @@
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
-
 - [中国矿业大学](https://www.cumt.edu.cn/) &emsp; 📌 2023-09 —— 2027-06
 
-  - 上学中......
+- 上学中......
 
 
 
@@ -63,8 +58,6 @@
   <div>&nbsp;</div>
   
 </td></tr>
-
-
 
 </table>
 
