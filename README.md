@@ -1,104 +1,116 @@
 <div align="center">
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- 自动驾驶·智能驾驶 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" height="250px" />
+    <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" height="250px" alt="Autonomous Driving" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-
-<!-- profile logo 个人资料徽标 -->
+  <!-- 访问量统计 -->
   <div>
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Hiloway&label=AutonomousDriving&color=00bfff&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
+  <!-- 贪吃蛇贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <h1><font color="#00bfff">Hiloway | Autonomous Driving Perception</font></h1>
+  <h3>智能驾驶环境感知 | 激光雷达点云处理 | 3D目标检测 | 深度学习</h3>
 
 </div>
 
-#  🙋 Hello
+---
 
-<table>
-  
-<tr><td>
+# 🙋 About Me
+<p align="left">
+&emsp;&emsp;我是 <b>Hiloway</b>，一名专注于<strong>自动驾驶环境感知</strong>的深度学习研究者，目前就读于<strong>中国矿业大学</strong>。
+<br>
+&emsp;&emsp;主攻方向：<b>激光雷达点云3D目标检测、稀疏点云特征增强、不确定性建模、体素特征编码、端到端自动驾驶感知</b>。
+<br>
+&emsp;&emsp;致力于通过深度学习与点云处理技术，提升自动驾驶系统在复杂场景下的感知鲁棒性与安全性。
+<br>
+&emsp;&emsp;持续探索：具身智能、多模态融合、Transformer在点云感知中的应用、车载实时感知算法。
+</p>
 
-### 🤺 About Me
+---
 
-<p>&emsp;&emsp;嗨，我是Hiloway。热爱编程、音乐、健身、旅行。</p>
-<p>&emsp;&emsp;热爱CV、深度学习、智能驾驶，想要探索具身智能、端到端大模型......</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+# 🚘 Research Interests
+- 🧠 **深度学习与计算机视觉**
+- 🚗 **自动驾驶环境感知系统**
+- ☁️ **激光雷达（LiDAR）点云处理**
+- 📦 **3D目标检测与稀疏表征学习**
+- 🎯 **不确定性建模与特征增强**
+- 🤖 **多模态融合与端到端智能驾驶**
 
+---
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+# 🎓 Education
+|<b>时间</b>|<b>院校</b>|<b>专业/方向</b>|
+|----|----|----|
+|2023.09 - 2027.06|**中国矿业大学**|地理信息科学|
 
-</td></tr>
+---
 
-<tr><td>
+# 💻 Technical Stack
+### 🔧 开发语言
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python&logoColor=white)
+### 🧨 深度学习框架
+![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red?style=flat&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-11.3+-green?style=flat&logo=nvidia&logoColor=white)
+### 📊 点云/3D检测工具链
+![OpenPCDet](https://img.shields.io/badge/OpenPCDet-3D%20Detection-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-brightgreen)
+![NumPy](https://img.shields.io/badge/NumPy-1.21+-blueviolet)
+### 🧪 研究方向
+**LiDAR Point Cloud • 3D Object Detection • Voxel Feature Encoding • Uncertainty Estimation**
 
-## 🏢 Work Experience
+---
 
-- [中国矿业大学](https://www.cumt.edu.cn/) &emsp; 📌 2023-09 —— 2027-06
+# 🚀 Research Projects
+### 1. DUD-Net（ing）
+- 面向自动驾驶稀疏场景，优化体素特征编码，提升远距离/遮挡小目标检测性能
+- 基于OpenPCDet实现，即插即用模块，兼容主流3D检测器
 
-- 上学中......
+---
 
+# 📊 GitHub Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hiloway&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=00bfff&icon_color=00bfff&bg_color=1a1a1a&theme=graywhite" /> 
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hiloway&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=00bfff&icon_color=00bfff&bg_color=1a1a1a&theme=graywhite" />
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
-
-</table>
-
-## 📊 GitHub 数据统计
-
-
-
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
-
-<!-- GitHub 数据统计 -->
-
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Peter-JXL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Hiloway&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Hiloway&theme=dark&hide_border=true&background=1a1a1a" />
 </picture>
 
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=tokyo-night" />
       </picture>
+    </td>
   </tr>
 </table>
 
+---
 
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
+# 📫 Contact Me
+- GitHub：https://github.com/Hiloway
+- 研究方向：自动驾驶感知、激光雷达3D目标检测、点云处理
+- 专注：智能驾驶环境感知算法研发与工程落地
+
+---
+
+<div align="center">
+<b><font color="#00bfff">Make Autonomous Driving Safer & Smarter</font></b>
+</div>
