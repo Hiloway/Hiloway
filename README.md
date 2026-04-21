@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- 自动驾驶·智能驾驶 -->
-  <img src="https://cdn.jsdelivr.net/gh/HiWave2023/CDN/img/autonomous_driving_banner.png" width="800px" alt="Autonomous Driving Perception" />
-
-  <div style="margin: 10px 0;"></div>
 
   <!-- 访问量统计 -->
   <img src="https://komarev.com/ghpvc/?username=Hiloway&label=Visitors&color=0099ff&style=flat-square" alt="访问量统计" />
@@ -70,9 +66,6 @@
 ---
 
 # 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hiloway&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=00bfff&icon_color=00bfff&bg_color=1a1a1a&theme=graywhite" /> 
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hiloway&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=00bfff&icon_color=00bfff&bg_color=1a1a1a&theme=graywhite" />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Hiloway&theme=light&hide_border=true" />
