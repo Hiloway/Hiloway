@@ -1,25 +1,14 @@
 <div align="center">
 
   <!-- 自动驾驶·智能驾驶 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" height="250px" />
-    <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy/src/assets/icons/automotive.svg" height="250px" alt="Autonomous Driving" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/HiWave2023/CDN/img/autonomous_driving_banner.png" width="800px" alt="Autonomous Driving Perception" />
 
-  <div>&nbsp;</div>
+  <div style="margin: 10px 0;"></div>
 
   <!-- 访问量统计 -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Hiloway&label=AutonomousDriving&color=00bfff&style=flat" alt="访问量统计" />&emsp;
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=Hiloway&label=Visitors&color=0099ff&style=flat-square" alt="访问量统计" />
 
-  <!-- 贪吃蛇贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hiloway/Hiloway/output/github-contribution-grid-snake.svg">
-  </picture>
+  <div style="margin: 10px 0;"></div>
 
   <h1><font color="#00bfff">Hiloway | Autonomous Driving Perception</font></h1>
   <h3>智能驾驶环境感知 | 激光雷达点云处理 | 3D目标检测 | 深度学习</h3>
