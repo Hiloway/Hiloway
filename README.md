@@ -1,97 +1,77 @@
-<div align="center">
+# 陈乙鸣 (Yi Ming Chen) / Hiloway
 
+中国矿业大学 地理信息科学专业 本科在读 (2023–2027)
 
-  <!-- 访问量统计 -->
-  <img src="https://komarev.com/ghpvc/?username=Hiloway&label=Visitors&color=0099ff&style=flat-square" alt="访问量统计" />
+[GitHub](https://github.com/Hiloway) · [Email](mailto:your_email@example.com)
 
-  <div style="margin: 10px 0;"></div>
+> 探索面向智能系统的鲁棒性三维空间感知。
 
-  <h1><font color="#00bfff">Hiloway | Autonomous Driving Perception</font></h1>
-  <h3>智能驾驶环境感知 | 激光雷达点云处理 | 3D目标检测 | 深度学习</h3>
-
-</div>
+我的研究兴趣集中在自动驾驶中的三维视觉感知，特别是激光雷达点云理解、三维目标检测、稀疏表示学习与不确定性感知。近期工作主要基于 OpenPCDet 生态，在 Waymo 和 KITTI 等大规模自动驾驶数据集上进行验证。
 
 ---
 
-# 🙋 About Me
-<p align="left">
-&emsp;&emsp;我是 <b>Hiloway</b>，一名专注于<strong>自动驾驶环境感知</strong>的深度学习研究者。
-<br>
-&emsp;&emsp;主攻方向：<b>激光雷达点云3D目标检测、稀疏点云特征增强、端到端自动驾驶感知</b>。
-<br>
-&emsp;&emsp;致力于通过深度学习与点云处理技术，提升自动驾驶系统在复杂场景下的感知鲁棒性与安全性。
-<br>
-&emsp;&emsp;持续探索：具身智能、多模态融合、Transformer在点云感知中的应用、车载实时感知算法。
-</p>
+## 研究方向
+
+- **三维计算机视觉**：激光雷达点云处理、3D 目标检测、稀疏点云表示学习。
+- **自动驾驶环境感知**：长距离与遮挡条件下的鲁棒感知、多模态融合感知。
+- **空间智能**：具身智能与三维场景理解、不确定性感知方法。
 
 ---
 
-# 🚘 Research Interests
-- 🧠 **深度学习与计算机视觉**
-- 🚗 **自动驾驶环境感知系统**
-- ☁️ **激光雷达（LiDAR）点云处理**
-- 📦 **3D目标检测与稀疏表征学习**
-- 🤖 **多模态融合与端到端智能驾驶**
+## 技术能力
+
+**编程语言**  
+Python, C++, SQL
+
+**深度学习与框架**  
+PyTorch, CUDA, TensorBoard
+
+**三维感知与视觉**  
+[OpenPCDet](https://github.com/open-mmlab/OpenPCDet), OpenCV, NumPy, SciPy
+
+**GIS 与空间计算**  
+QGIS, ArcGIS, PostGIS, WebGIS 开发 (OpenLayers / Leaflet)
+
+**开发环境与工具**  
+Linux, Git, Docker
 
 ---
 
-# 🎓 Education
-|<b>时间</b>|<b>院校</b>|<b>专业/方向</b>|
-|----|----|----|
-|2023.09 - 2027.06|**中国矿业大学**|地理信息科学|
+## 主要项目
+
+### DUD-Net：密度引导与不确定性感知的点云特征增强网络
+
+针对激光雷达点云在远距离和遮挡条件下的稀疏性，设计的一种即插即用的前端特征编码增强框架。
+
+- 基于密度的体素特征自适应增强机制
+- 点云特征的不确定性估计模型
+- 稀疏场景下的点云特征扩散优化
+- 在 KITTI 与 Waymo Open Dataset 上完成全量实验验证
+
+当前状态：学术论文定稿中，源码将随之开源。
+
+### 智能选址决策 WebGIS 平台
+
+独立设计并实现的轻量化 WebGIS 系统，集成时空数据渲染、交互式沙盒选址与多方案比选面板。全链路使用标准 GeoJSON 与 EPSG:4326 进行前后端数据交互。工程实现已完成，相关设计模块已沉淀。
 
 ---
 
-# 💻 Technical Stack
-### 🔧 开发语言
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python&logoColor=white)
-### 🧨 深度学习框架
-![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-11.3+-green?style=flat&logo=nvidia&logoColor=white)
-### 📊 点云/3D检测工具链
-![OpenPCDet](https://img.shields.io/badge/OpenPCDet-3D%20Detection-orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-brightgreen)
-![NumPy](https://img.shields.io/badge/NumPy-1.21+-blueviolet)
-### 🧪 研究方向
-**LiDAR Point Cloud • 3D Object Detection • Voxel Feature Encoding • Uncertainty Estimation**
+## 关注的开源生态
+
+- 三维检测：[OpenPCDet](https://github.com/open-mmlab/OpenPCDet) / [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
+- 基准数据集：Waymo Open Dataset, KITTI Benchmark
+- 基础工具：PyTorch, PostGIS, OpenLayers
 
 ---
 
-# 🚀 Research Projects
-### 1. DUD-Net（ing）
-- 面向自动驾驶稀疏场景，优化体素特征编码，提升远距离/遮挡小目标检测性能
-- 基于OpenPCDet实现，即插即用模块，兼容主流3D检测器
+## 统计
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=Hiloway&show_icons=false&theme=graywhite&hide_border=true&rank_icon=github)
+![连续贡献](https://streak-stats.demolab.com/?user=Hiloway&theme=graywhite&hide_border=true)
 
 ---
 
-# 📊 GitHub Stats
+## 联系方式
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Hiloway&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Hiloway&theme=dark&hide_border=true&background=1a1a1a" />
-</picture>
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiloway&theme=tokyo-night" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-# 📫 Contact Me
-- GitHub：https://github.com/Hiloway
-- 研究方向：自动驾驶感知、激光雷达3D目标检测、点云处理
-- 专注：智能驾驶环境感知算法研发与工程落地
-
----
-
-<div align="center">
-<b><font color="#00bfff">Make Autonomous Driving Safer & Smarter</font></b>
-</div>
+- GitHub: [Hiloway](https://github.com/Hiloway)
+- Email: `your_email@example.com` （欢迎学术交流与技术讨论）
