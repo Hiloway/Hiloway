@@ -72,24 +72,16 @@
 
 > 针对激光雷达点云远距离与遮挡条件下的稀疏性，设计的即插即用前端特征编码增强框架。
 
-![OpenPCDet](https://img.shields.io/badge/框架-OpenPCDet-00C896?style=flat-square)
-![Status](https://img.shields.io/badge/状态-源码随论文开源-F59E0B?style=flat-square)
 
 ### ⚡ GeoPlan — 智能选址决策 WebGIS 平台
 
 > 独立设计实现的轻量化 WebGIS 系统：时空数据渲染、交互式沙盒选址、多方案比选、AI 智能助手、数据大屏。
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6FEB?style=flat-square&logo=openlayers&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AI](https://img.shields.io/badge/AI-DeepSeek-4D6BFE?style=flat-square)
+
 
 ### 🛣️ 车道优 — WebGIS 车道健康度监测平台
 
 > 基于 WebGIS 的车道病害智能检测与维护调度系统，集成 AI 视觉诊断与空间热点分析。
-
-[![Repository](https://img.shields.io/badge/GitHub-chedaoyou-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hiloway/chedaoyou)
 
 
 
