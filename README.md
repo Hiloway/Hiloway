@@ -84,15 +84,17 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub 动态
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiloway&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiloway&layout=compact&theme=graywhite&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Hiloway?style=for-the-badge&logo=github&color=00C896&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Hiloway/chedaoyou?style=for-the-badge&logo=github&color=38BDF8&label=chedaoyou%20Stars" />
+  <img src="https://img.shields.io/github/last-commit/Hiloway/chedaoyou?style=for-the-badge&logo=git&color=F59E0B&label=最近提交" />
+  <img src="https://img.shields.io/github/stars/Hiloway/davfe?style=for-the-badge&logo=github&color=A855F7&label=davfe%20Stars" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hiloway&theme=graywhite&hide_border=true" />
+  <i>（统计卡片服务 vercel/demolab 在国内访问不稳定，改用 shields.io 动态徽章实时展示 GitHub 数据）</i>
 </div>
 
 ---
