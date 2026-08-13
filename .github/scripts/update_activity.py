@@ -27,7 +27,7 @@ for ev in events:
     et = ev["type"]
     if et == "PushEvent":
         n = len(ev.get("payload", {}).get("commits", []))
-        lines.append(f"- 🔨 `{ts}` 推送 {n} 个提交到 [{repo}](https://github.com/{repo})")
+        lines.append(f"- 🔨 `{ts}` 提交到 [{repo}](https://github.com/{repo})")
     elif et == "CreateEvent":
         lines.append(f"- 🎉 `{ts}` 创建了 [{repo}](https://github.com/{repo})")
     elif et == "PullRequestEvent" and ev.get("payload", {}).get("action") == "opened":
