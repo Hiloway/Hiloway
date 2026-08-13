@@ -1,0 +1,32 @@
+name: Profile Auto Update
+
+on:
+  schedule:
+    - cron: '0 20 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 更新最近活动区
+        run: python3 .github/scripts/update_activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 提交变更
+        run: |
+          git config user.name "Hiloway"
+          git config user.email "2819558238@qq.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "无变更"
+          else
+            git commit -m "chore: 自动更新最近活动 [skip ci]"
+            git push
+          fi
