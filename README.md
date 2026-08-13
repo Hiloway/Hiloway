@@ -116,8 +116,8 @@
 ## 🔥 最近活动
 
 <!--START_SECTION:activity-->
-- 🔨 `2026-08-13` 推送 0 个提交到 [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
-- 🔨 `2026-08-12` 推送 0 个提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
+- 🔨 `2026-08-13` 提交到 [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
+- 🔨 `2026-08-12` 提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
 <!--END_SECTION:activity-->
 
 *每周日自动更新 · 由 GitHub Actions 驱动*
