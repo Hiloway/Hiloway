@@ -16,10 +16,8 @@
 ---
 
 <h3 align="center">
-  🎓 中国矿业大学 · 地理信息科学（A类）本科 &nbsp;·&nbsp; 🔬 LiDAR 点云三维目标检测 &nbsp;·&nbsp; 🚀 2027 届保研申请中
+  🎓 中国矿业大学 · 地理信息科学 &nbsp;·&nbsp; 🔬 LiDAR 点云三维目标检测 &nbsp;·&nbsp; 
 </h3>
-
-> ⚡ 全栈 WebGIS 开发者 · 一作论文 DUD-Net 拟投 · 从点云到地图，从算法到系统
 
 ---
 
@@ -73,32 +71,25 @@
 ### 🔭 DUD-Net — LiDAR 点云特征编码增强框架
 
 > 针对激光雷达点云远距离与遮挡条件下的稀疏性，设计的即插即用前端特征编码增强框架。
-
-![Research](https://img.shields.io/badge/论文-一作拟投-8B5CF6?style=flat-square)
 ![OpenPCDet](https://img.shields.io/badge/框架-OpenPCDet-00C896?style=flat-square)
 ![Status](https://img.shields.io/badge/状态-源码随论文开源-F59E0B?style=flat-square)
 
 ### ⚡ GeoPlan — 智能选址决策 WebGIS 平台
 
 > 独立设计实现的轻量化 WebGIS 系统：时空数据渲染、交互式沙盒选址、多方案比选、AI 智能助手、数据大屏。
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6FEB?style=flat-square&logo=openlayers&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-DeepSeek-4D6BFE?style=flat-square)
 
-- 🗺️ 覆盖分析 / 等时圈 / 盲区识别
-- 🤖 AI 选址助手（流式对话 + GIS 动作联动）
-- 📊 决策 / 盲区攻坚 / 选址决策 三大数据大屏
-
 ### 🛣️ 车道优 — WebGIS 车道健康度监测平台
 
+> 基于 WebGIS 的车道病害智能检测与维护调度系统，集成 AI 视觉诊断与空间热点分析。
 [![Repository](https://img.shields.io/badge/GitHub-chedaoyou-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hiloway/chedaoyou)
 
-> 基于 WebGIS 的车道病害智能检测与维护调度系统，集成 AI 视觉诊断与空间热点分析。
 
-`React 19 + TypeScript + Vite + Leaflet ｜ Express 5 + MySQL + JWT ｜ DeepSeek + 通义千问 VL`
+
 
 ---
 
@@ -120,7 +111,6 @@
 - 🔨 `2026-08-12` 提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
 <!--END_SECTION:activity-->
 
-*每周日自动更新 · 由 GitHub Actions 驱动*
 
 ---
 
