@@ -1,37 +1,44 @@
 <!-- Hiloway · GitHub Profile README -->
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00C896">Hiloway</span>
-</h1>
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/中国矿业大学-环境与测绘学院-0A7D5F?style=for-the-badge&logo=graduationcap" />
-  <img src="https://img.shields.io/badge/地理信息科学-WebGIS-38BDF8?style=for-the-badge&logo=mapbox" />
-  <img src="https://img.shields.io/badge/LiDAR-3D感知-8B5CF6?style=for-the-badge&logo=databricks" />
-</div>
+<h1 align="center">Hi, I'm <span style="color:#00C896">Hiloway</span></h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiloway&style=flat-square&color=00C896&label=Profile+Views" alt="访客计数" />
-</div>
+<p align="center">
+  <samp>
+    China University of Mining and Technology · School of Environment and Spatial Informatics · Geographic Information Science<br/>
+    Research: LiDAR Point Cloud 3D Object Detection / Autonomous Driving Perception / Spatial Intelligence
+  </samp>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Hiloway"><img src="https://img.shields.io/badge/GitHub-Hiloway-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:xccg0010014@gmail.com"><img src="https://img.shields.io/badge/Email-xccg0010014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hiloway&style=flat-square&color=00C896&label=Views" />
+</p>
 
-<h3 align="center">
-  🎓 中国矿业大学 · 地理信息科学 &nbsp;·&nbsp; 🔬 LiDAR 点云三维目标检测 &nbsp;·&nbsp; 
-</h3>
-
----
-
-## 🧭 研究方向
-
-- **三维计算机视觉** — 激光雷达点云处理、3D 目标检测、稀疏点云表示学习
-- **自动驾驶环境感知** — 长距离与遮挡条件下的鲁棒感知、多模态融合感知
-- **空间智能** — 具身智能与三维场景理解、不确定性感知方法
+<br/>
 
 ---
 
-## 🛠️ 技术栈
+## 🧭 About Me
 
-**编程语言**
+I am a researcher in Geographic Information Science at China University of Mining and Technology, working at the intersection of **3D Computer Vision** and **Spatial Intelligence**. My current research focuses on representation learning and robust perception from LiDAR point clouds, with an emphasis on addressing environmental perception challenges in autonomous driving under complex conditions such as long-range sensing and occlusion.
+
+---
+
+## 🔬 Research Interests
+
+| Direction | Focus |
+|:---|:---|
+| **3D Computer Vision** | LiDAR point cloud processing, 3D object detection, sparse point cloud representation learning |
+| **Autonomous Driving Perception** | Robust perception under long-range and occluded conditions, multi-modal fusion perception |
+| **Spatial Intelligence** | Embodied intelligence and 3D scene understanding, uncertainty-aware methods |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Foundations**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -39,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**深度学习与三维感知**
+**Deep Learning & 3D Perception**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenPCDet](https://img.shields.io/badge/OpenPCDet-00C896?style=flat-square)
@@ -47,69 +54,67 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**GIS 与 WebGIS**
+**GIS**
 
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6FEB?style=flat-square&logo=openlayers&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=flat-square&logo=esri&logoColor=white)
 
-**工程与工具**
+**Engineering & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📦 主要项目
-
-### 🔭 DUD-Net — LiDAR 点云特征编码增强框架
-
-> 针对激光雷达点云远距离与遮挡条件下的稀疏性，设计的即插即用前端特征编码增强框架。
-
-
-### ⚡ GeoPlan — 智能选址决策 WebGIS 平台
-
-> 独立设计实现的轻量化 WebGIS 系统：时空数据渲染、交互式沙盒选址、多方案比选、AI 智能助手、数据大屏。
-
-
-
-### 🛣️ 车道优 — WebGIS 车道健康度监测平台
-
-> 基于 WebGIS 的车道病害智能检测与维护调度系统，集成 AI 视觉诊断与空间热点分析。
-
-
 
 
 ---
 
-## 📊 GitHub 动态
+## 📦 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Hiloway?style=for-the-badge&logo=github&color=00C896&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Hiloway/chedaoyou?style=for-the-badge&logo=github&color=38BDF8&label=chedaoyou%20Stars" />
-  <img src="https://img.shields.io/github/stars/Hiloway/davfe?style=for-the-badge&logo=github&color=A855F7&label=davfe%20Stars" />
-</div>
+### 🔭 [DUD-Net](https://github.com/Hiloway/davfe) — LiDAR Point Cloud Feature Encoding Enhancement
+
+&gt; A plug-and-play front-end feature encoding enhancement framework designed to address sparsity in LiDAR point clouds under long-range and occluded conditions.
+
 
 ---
 
-## 🔥 最近活动
+### ⚡ [GeoPlan](https://github.com/willingsss/GeoPlan-Partner-Edition) — Intelligent Site Selection WebGIS Platform
+
+&gt; An independently designed and implemented lightweight WebGIS system for urban planning and spatial decision-making scenarios.
+
+
+---
+
+### 🛣️ [Chedaoyou](https://github.com/Hiloway/chedaoyou) — WebGIS Lane Health Monitoring Platform
+
+&gt; A WebGIS-based lane defect intelligent detection and maintenance dispatch system.
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiloway&theme=vue" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiloway&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiloway&theme=vue" />
+</p>
+
+---
+
+## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔨 `2026-08-13` 提交到 [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
-- 🔨 `2026-08-12` 提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
+- `2026-08-13` Pushed to [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
+- `2026-08-12` Pushed to [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
 <!--END_SECTION:activity-->
-
 
 ---
 
-## 📫 联系我
-
-- 🐙 GitHub: [Hiloway](https://github.com/Hiloway)
-- 📧 Email: `xccg0010014@gmail.com`
-- 🏫 中国矿业大学 · 环境与测绘学院 · 地理信息科学
+<p align="center">
+  <samp>Feel free to reach out · Open to collaboration</samp>
+</p>
