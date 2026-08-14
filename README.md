@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    China University of Mining and Technology · School of Environment and Spatial Informatics · Geographic Information Science<br/>
+    <!-- China University of Mining and Technology · School of Environment and Spatial Informatics · Geographic Information Science<br/> -->
     Research: LiDAR Point Cloud 3D Object Detection / Autonomous Driving Perception / Spatial Intelligence
   </samp>
 </p>
