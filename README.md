@@ -109,8 +109,9 @@ I am a researcher in Geographic Information Science at China University of Minin
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-- `2026-08-13` Pushed to [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
-- `2026-08-12` Pushed to [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
+- 🔨 `2026-08-14` 提交到 [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
+- 🔨 `2026-08-14` 提交到 [Hiloway/hermes-browser-plus](https://github.com/Hiloway/hermes-browser-plus)
+- 🔨 `2026-08-12` 提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
 <!--END_SECTION:activity-->
 
 ---
