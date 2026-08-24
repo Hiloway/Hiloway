@@ -78,12 +78,6 @@ I am a researcher in Geographic Information Science at China University of Minin
 &gt; A plug-and-play front-end feature encoding enhancement framework designed to address sparsity in LiDAR point clouds under long-range and occluded conditions.
 
 
----
-
-### ⚡ [GeoPlan](https://github.com/willingsss/GeoPlan-Partner-Edition) — Intelligent Site Selection WebGIS Platform
-
-&gt; An independently designed and implemented lightweight WebGIS system for urban planning and spatial decision-making scenarios.
-
 
 ---
 
