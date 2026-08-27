@@ -98,15 +98,6 @@ I am a researcher in Geographic Information Science at China University of Minin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiloway&theme=vue" />
 </p>
 
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-- 🔨 `2026-08-14` 提交到 [Hiloway/Hiloway](https://github.com/Hiloway/Hiloway)
-- 🔨 `2026-08-14` 提交到 [Hiloway/hermes-browser-plus](https://github.com/Hiloway/hermes-browser-plus)
-- 🔨 `2026-08-12` 提交到 [willingsss/GeoPlan-Partner-Edition](https://github.com/willingsss/GeoPlan-Partner-Edition)
-<!--END_SECTION:activity-->
 
 ---
 
